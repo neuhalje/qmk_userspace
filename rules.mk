@@ -24,13 +24,13 @@ SPACE_CADET_ENABLE = no
 LTO_ENABLE = yes
 WAIT_FOR_USB = yes
 EXTRAKEY_ENABLE = yes
-MOUSEKEY_ENABLE = yes
+MOUSEKEY_ENABLE = no
 BOOTLOADER = atmel-dfu
 BOOTMAGIC_ENABLE = yes
 
 # Main source file and source paths
 SRC += filterpaper.c
-VPATH += $(USER_PATH)/oled $(USER_PATH)/rgb $(USER_PATH)/word
+VPATH += $(USER_PATH)/oled  $(USER_PATH)/rgb  $(USER_PATH)/word
 
 # Combo support
 COMBO_ENABLE = yes

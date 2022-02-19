@@ -3,6 +3,7 @@
 
 #pragma once
 #include QMK_KEYBOARD_H
+#include "keymap_german.h"
 
 // Layer and mod tap bits
 // 0xff00 bitmask
