@@ -29,12 +29,11 @@ BOOTLOADER = atmel-dfu
 BOOTMAGIC_ENABLE = yes
 
 # Main source file and source paths
-SRC += filterpaper.c
+SRC += neuhalje.c
 VPATH += $(USER_PATH)/oled  $(USER_PATH)/rgb  $(USER_PATH)/word
 
 # Combo support
-COMBO_ENABLE = yes
-SRC += combos.c
+COMBO_ENABLE = no
 # Caps word feature
 OPT_DEFS += -DCAPS_WORD
 SRC += caps_word.c
