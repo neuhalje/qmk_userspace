@@ -139,6 +139,10 @@
 #define DE_PIPE ALGR(DE_LABK) // |
 #define DE_MICR ALGR(DE_M)    // µ
 // END keymap_german.h
+
+#define LAYER_EXTRACT(layer) (layer & 7)
+#define LAYER_IS_TUX(layer) ( (layer & 8) == 0)
+#define LAYER_IS_APPLE(layer) ( (layer & 8) != 0)
 #define LAYER_BASE 0
 #define LAYER_UMLAUT 1
 #define LAYER_EXT 2

@@ -28,33 +28,44 @@
 #    define CMK 1
 #endif
 
-static void render_logo(void) {
-    static char const corne_logo[] PROGMEM = {0x80, 0x81, 0x82, 0x83, 0x84, 0xa0, 0xa1, 0xa2, 0xa3, 0xa4, 0xc0, 0xc1, 0xc2, 0xc3, 0xc4, 0};
-    static char const katakana[] PROGMEM   = {0x20, 0xd1, 0xd2, 0xd3, 0x20, 0};
+// https://joric.github.io/qle/
+static void render_logo(uint8_t const state) {
+    static const char PROGMEM tux_logo[] = {153, 154, 10, 185, 186, 0};
 
-    oled_write_P(corne_logo, false);
-    oled_write_P(layer_state_is(CMK) ? PSTR("corne") : katakana, false);
+    static const char PROGMEM apple_logo[] = {149, 150, 10, 181, 182, 0};
+
+    if (LAYER_IS_TUX(state)) {
+        oled_write_P(tux_logo, false);
+        oled_write_P(PSTR("tux\n"), false);
+    } else {
+        oled_write_P(apple_logo, false);
+        oled_write_P(PSTR("mac\n"), false);
+    }
 }
 
 static void render_layer_state(uint8_t const state) {
-    static char const base_layer[] PROGMEM = {0x20, 0x9a, 0x9b, 0x9c, 0x20, 0x20, 0xba, 0xbb, 0xbc, 0x20, 0x20, 0xda, 0xdb, 0xdc, 0x20, 0};
-    static char const numb_layer[] PROGMEM = {0x20, 0x94, 0x95, 0x96, 0x20, 0x20, 0xb4, 0xb5, 0xb6, 0x20, 0x20, 0xd4, 0xd5, 0xd6, 0x20, 0};
-    static char const symb_layer[] PROGMEM = {0x20, 0x97, 0x98, 0x99, 0x20, 0x20, 0xb7, 0xb8, 0xb9, 0x20, 0x20, 0xd7, 0xd8, 0xd9, 0x20, 0};
-    static char const func_layer[] PROGMEM = {0x20, 0x9d, 0x9e, 0x9f, 0x20, 0x20, 0xbd, 0xbe, 0xbf, 0x20, 0x20, 0xdd, 0xde, 0xdf, 0x20, 0};
-
-    switch (state) {
-        // FIXME
+    //
+    switch (LAYER_EXTRACT(state)) {
+        case LAYER_BASE:
+            oled_write_P(PSTR("base\n"), false);
+            break;
+        case LAYER_UMLAUT:
+            oled_write_P(PSTR("uml\n"), false);
+            break;
         case LAYER_EXT:
-            oled_write_P(func_layer, false);
+            oled_write_P(PSTR("ext\n"), false);
             break;
         case LAYER_SYMBOL:
-            oled_write_P(symb_layer, false);
+            oled_write_P(PSTR("symb\n"), false);
             break;
         case LAYER_FUN:
-            oled_write_P(numb_layer, false);
+            oled_write_P(PSTR("fun\n"), false);
+            break;
+        case LAYER_SYMBOL2:
+            oled_write_P(PSTR("symb2\n"), false);
             break;
         default:
-            oled_write_P(base_layer, false);
+            oled_write_P(PSTR("wtf?\n"), false);
     }
 }
 
@@ -156,10 +167,11 @@ static void render_ctrl_shift(uint8_t const ctrl, uint8_t const shift) {
 
 // Primary modifier status display function
 void render_mod_status(void) {
-    render_logo();
+    uint8_t const state = get_highest_layer(layer_state | default_layer_state);
+    render_logo(state);
 
     oled_set_cursor(0, 6);
-    render_layer_state(get_highest_layer(layer_state | default_layer_state));
+    render_layer_state(state);
 
     oled_set_cursor(0, 11);
     render_gui_alt(get_mods() & MOD_MASK_GUI, get_mods() & MOD_MASK_ALT);
