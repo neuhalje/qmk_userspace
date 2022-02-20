@@ -13,7 +13,10 @@
 // Space saving options
 #undef LOCKING_SUPPORT_ENABLE
 #undef LOCKING_RESYNC_ENABLE
-#define LAYER_STATE_8BIT
+
+// use 16bit layer state to enable
+// all 16 layers (8 tux, 8 mac)
+#define LAYER_STATE_16BIT
 // #define NO_ACTION_ONESHOT
 // Tap-hold settings
 #define TAPPING_TERM 200
