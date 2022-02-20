@@ -1,6 +1,7 @@
 # Disable unused features
 VIA_ENABLE = no
 WPM_ENABLE = no
+# TODO: nkro
 NKRO_ENABLE = no
 AUDIO_ENABLE = no
 MAGIC_ENABLE = no
