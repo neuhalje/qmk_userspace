@@ -15,4 +15,4 @@ Tux_icon.svg
     derivative work: Gabriel dos Santos
 
 Other Icons:
-https://commons.wikimedia.org/wiki/GNOME_High_contrast_icons
+- https://commons.wikimedia.org/wiki/GNOME_High_contrast_icons

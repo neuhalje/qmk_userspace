@@ -30,29 +30,11 @@ BOOTMAGIC_ENABLE = yes
 
 # Main source file and source paths
 SRC += neuhalje.c
-VPATH += $(USER_PATH)/oled  $(USER_PATH)/rgb  $(USER_PATH)/word
+VPATH += $(USER_PATH)/oled  $(USER_PATH)/rgb
 
 # Combo support
 COMBO_ENABLE = no
-# Caps word feature
-OPT_DEFS += -DCAPS_WORD
-SRC += caps_word.c
-
-# Small split keyboards
-ifeq ($(KEYBOARD), $(filter $(KEYBOARD), 3w6/rev2 a_dux cradio))
-	SWAP_HANDS_ENABLE = yes
-	# Autocorrection feature
-	OPT_DEFS += -DAUTO_CORRECT
-	SRC += autocorrection.c
-endif
-
-# Boardsource's Mark65 and Technik
-ifeq ($(findstring boardsource/, $(KEYBOARD)), boardsource/)
-	RGB_MATRIX_ENABLE = yes
-	RGB_MATRIX_CUSTOM_USER = yes
-	SRC += rgb-matrix.c
-endif
-
+#
 # Corne CRKBD
 ifeq ($(KEYBOARD), crkbd/rev1)
 	ifeq ($(strip $(TINY)),)
