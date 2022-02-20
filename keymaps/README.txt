@@ -16,3 +16,6 @@ Tux_icon.svg
 
 Other Icons:
 - https://commons.wikimedia.org/wiki/GNOME_High_contrast_icons
+
+Tux_bw.svg
+- https://de.wikipedia.org/wiki/Datei:Tux_bw.svg

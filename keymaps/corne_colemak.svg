@@ -84,9 +84,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="true"
-     inkscape:zoom="0.78506847"
-     inkscape:cx="368.75765"
-     inkscape:cy="368.12076"
+     inkscape:zoom="6.2805477"
+     inkscape:cx="461.50434"
+     inkscape:cy="1175.5344"
      inkscape:window-width="1406"
      inkscape:window-height="830"
      inkscape:window-x="138"
@@ -2228,7 +2228,7 @@
        transform="translate(6.0260534,-26.083765)"><tspan
          x="25.5"
          y="203.53018"
-         id="tspan189414">Base </tspan></text>
+         id="tspan192557">Base </tspan></text>
     <text
        xml:space="preserve"
        id="text15274-11"
@@ -2236,9 +2236,9 @@
        transform="translate(5.6549779,-278.3927)"><tspan
          x="25.5"
          y="256.21572"
-         id="tspan189418"><tspan
+         id="tspan192561"><tspan
            dx="0 28.886719 22.246094 8.8867188 22.246094 33.320312 22.246094 20 28.886719 28.886719 11.113281 11.113281 22.246094 13.320312 11.113281 22.246094 11.113281 31.113281 22.246094 13.320312 33.320312 22.246094 22.246094 11.113281 28.886719 22.246094 13.320312 22.246094 22.246094 11.113281 20 22.246094 20 22.246094 22.246094 22.246094 13.320312"
-           id="tspan189416">ColemakDH for a German Corne keyboard</tspan></tspan></text>
+           id="tspan192559">ColemakDH for a German Corne keyboard</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text15274-3"
@@ -2246,9 +2246,9 @@
        transform="translate(4.5109531,-258.39617)"><tspan
          x="25.5"
          y="256.21572"
-         id="tspan189422"><tspan
+         id="tspan192565"><tspan
            dx="0 28.886719 22.246094 8.8867188 22.246094 33.320312 22.246094 20 28.886719 28.886719"
-           id="tspan189420">ColemakDH </tspan></tspan></text>
+           id="tspan192563">ColemakDH </tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text15274-1"
@@ -2256,7 +2256,7 @@
        transform="translate(6.0260534,194.4547)"><tspan
          x="25.5"
          y="203.53018"
-         id="tspan189424">Ext</tspan></text>
+         id="tspan192567">Ext</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:17.3333px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -2286,7 +2286,7 @@
        transform="translate(5.4908964,408.95652)"><tspan
          x="25.5"
          y="203.53018"
-         id="tspan189426">Symbol</tspan></text>
+         id="tspan192569">Symbol</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:17.3333px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -2305,7 +2305,7 @@
        transform="translate(6.0260534,637.56269)"><tspan
          x="25.5"
          y="203.53018"
-         id="tspan189428">Function</tspan></text>
+         id="tspan192571">Function</tspan></text>
     <text
        xml:space="preserve"
        id="text15274-1-3-9-8"
@@ -2313,10 +2313,10 @@
        transform="translate(7.4908964,857.43855)"><tspan
          x="25.5"
          y="203.53018"
-         id="tspan189430">Symbol 2 </tspan><tspan
+         id="tspan192573">Symbol 2 </tspan><tspan
          x="25.5"
          y="261.9833"
-         id="tspan189432">2</tspan></text>
+         id="tspan192575">2</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:17.3333px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -2386,12 +2386,12 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect152859);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="34.908203"
          y="-49.840917"
-         id="tspan189434">ColemakDH for a German Corne </tspan><tspan
+         id="tspan192577">ColemakDH for a German Corne </tspan><tspan
          x="34.908203"
          y="20.008693"
-         id="tspan189438"><tspan
+         id="tspan192581"><tspan
            dx="0 20 22.246094 20 22.246094 22.246094 22.246094 13.320312"
-           id="tspan189436">keyboard</tspan></tspan></text>
+           id="tspan192579">keyboard</tspan></tspan></text>
     <a
        id="a174652"
        xlink:href="https://github.com/neuhalje/qmk_userspace"
@@ -2404,11 +2404,11 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect163890);fill:#707070;fill-opacity:1;stroke:none"><tspan
            x="34.908203"
            y="-21.828164"
-           id="tspan189440">Use a German (dead acute) keymap
+           id="tspan192583">Use a German (dead acute) keymap
 </tspan><tspan
            x="34.908203"
            y="-1.8281636"
-           id="tspan189442">https://github.com/neuhalje/qmk_userspace</tspan></text>
+           id="tspan192585">https://github.com/neuhalje/qmk_userspace</tspan></text>
     </a>
   </g>
   <g
@@ -4198,13 +4198,6 @@ IDwvZz4KICAgIDwvZz4KICA8L2c+Cjwvc3ZnPgo=
            id="tspan124578-13"
            x="-124.66893"
            y="356.91235">Ctrl/⌘</tspan></text>
-      <rect
-         style="mix-blend-mode:normal;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:0.936238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.936238, 2.80871;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect118586-8-3-6-23"
-         width="26.116625"
-         height="10.754867"
-         x="-129.05727"
-         y="341.509" />
     </g>
     <g
        id="g124583-7"
@@ -4221,13 +4214,6 @@ IDwvZz4KICAgIDwvZz4KICA8L2c+Cjwvc3ZnPgo=
            id="tspan124578-1"
            x="-124.66893"
            y="356.91235">Ctrl/⌘</tspan></text>
-      <rect
-         style="mix-blend-mode:normal;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:0.936238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.936238, 2.80871;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect118586-8-3-6-7"
-         width="26.116625"
-         height="10.754867"
-         x="-129.05727"
-         y="341.509" />
     </g>
     <g
        id="g124583-22"
@@ -4244,13 +4230,6 @@ IDwvZz4KICAgIDwvZz4KICA8L2c+Cjwvc3ZnPgo=
            id="tspan124578-48"
            x="-124.66893"
            y="356.91235">Ctrl/⌘</tspan></text>
-      <rect
-         style="mix-blend-mode:normal;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:0.936238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.936238, 2.80871;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect118586-8-3-6-2"
-         width="26.116625"
-         height="10.754867"
-         x="-129.05727"
-         y="341.509" />
     </g>
     <g
        id="g124583-2"
@@ -4267,13 +4246,6 @@ IDwvZz4KICAgIDwvZz4KICA8L2c+Cjwvc3ZnPgo=
            id="tspan124578-0"
            x="-124.66893"
            y="356.91235">Ctrl/⌘</tspan></text>
-      <rect
-         style="mix-blend-mode:normal;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:0.936238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.936238, 2.80871;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect118586-8-3-6-9"
-         width="26.116625"
-         height="10.754867"
-         x="-129.05727"
-         y="341.509" />
     </g>
     <g
        id="g124583-0"
@@ -4290,13 +4262,6 @@ IDwvZz4KICAgIDwvZz4KICA8L2c+Cjwvc3ZnPgo=
            id="tspan124578-4"
            x="-124.66893"
            y="357.54163">Ctrl/⌘</tspan></text>
-      <rect
-         style="mix-blend-mode:normal;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:0.936238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.936238, 2.80871;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect118586-8-3-6-6"
-         width="26.116625"
-         height="10.754867"
-         x="-129.05727"
-         y="341.509" />
     </g>
     <g
        id="g124186"
@@ -4315,13 +4280,6 @@ IDwvZz4KICAgIDwvZz4KICA8L2c+Cjwvc3ZnPgo=
              id="tspan123969"
              x="-118.34705"
              y="258.4404">Left</tspan></text>
-        <rect
-           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 3.6;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-           id="rect118586-8-3-07"
-           width="29.8008"
-           height="15.484048"
-           x="-120.46064"
-           y="247.88408" />
       </g>
     </g>
     <g
@@ -4342,13 +4300,6 @@ IDwvZz4KICAgIDwvZz4KICA8L2c+Cjwvc3ZnPgo=
              id="tspan123969-9"
              x="-118.34705"
              y="258.4404">Left</tspan></text>
-        <rect
-           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 3.6;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-           id="rect118586-8-3-07-7"
-           width="29.8008"
-           height="15.484048"
-           x="-120.46064"
-           y="247.88408" />
       </g>
     </g>
     <g
@@ -4369,13 +4320,6 @@ IDwvZz4KICAgIDwvZz4KICA8L2c+Cjwvc3ZnPgo=
              id="tspan123969-4"
              x="-118.34705"
              y="258.4404">Left</tspan></text>
-        <rect
-           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 3.6;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-           id="rect118586-8-3-07-45"
-           width="29.8008"
-           height="15.484048"
-           x="-120.46064"
-           y="247.88408" />
       </g>
     </g>
     <g
@@ -4396,13 +4340,6 @@ IDwvZz4KICAgIDwvZz4KICA8L2c+Cjwvc3ZnPgo=
              id="tspan123969-8"
              x="-118.34705"
              y="258.4404">Left</tspan></text>
-        <rect
-           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 3.6;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-           id="rect118586-8-3-07-4"
-           width="29.8008"
-           height="15.484048"
-           x="-120.46064"
-           y="247.88408" />
       </g>
     </g>
     <g
@@ -4422,13 +4359,6 @@ IDwvZz4KICAgIDwvZz4KICA8L2c+Cjwvc3ZnPgo=
              id="tspan124146"
              x="-118.34705"
              y="258.4404">Right</tspan></text>
-        <rect
-           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 3.6;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-           id="rect118586-8-3-07-0"
-           width="29.8008"
-           height="15.484048"
-           x="-120.46064"
-           y="247.88408" />
       </g>
     </g>
     <g
@@ -4446,13 +4376,6 @@ IDwvZz4KICAgIDwvZz4KICA8L2c+Cjwvc3ZnPgo=
            x="-118.34705"
            y="258.4404"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1">OSM</tspan></text>
-      <rect
-         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 3.6;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect118586-8-7"
-         width="29.8008"
-         height="15.484048"
-         x="-120.46064"
-         y="247.88408" />
     </g>
     <g
        id="g118935-6-3-5"
@@ -4469,13 +4392,6 @@ IDwvZz4KICAgIDwvZz4KICA8L2c+Cjwvc3ZnPgo=
            x="-118.34705"
            y="258.4404"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1">OSM</tspan></text>
-      <rect
-         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 3.6;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect118586-8-7-1"
-         width="29.8008"
-         height="15.484048"
-         x="-120.46064"
-         y="247.88408" />
     </g>
     <g
        id="g118935-6-3-5-5"
@@ -4492,21 +4408,14 @@ IDwvZz4KICAgIDwvZz4KICA8L2c+Cjwvc3ZnPgo=
            x="-118.34705"
            y="258.4404"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1">OSM</tspan></text>
-      <rect
-         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 3.6;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect118586-8-7-1-1"
-         width="29.8008"
-         height="15.484048"
-         x="-120.46064"
-         y="247.88408" />
     </g>
     <g
        id="g118935-6-3-5-5-0"
-       style="display:inline;mix-blend-mode:normal"
+       style="display:inline;mix-blend-mode:normal;stroke-width:1.00037641;stroke-miterlimit:4;stroke-dasharray:none;fill:#000000;fill-opacity:1"
        transform="matrix(0.73226094,0,0,0.6995734,327.88666,152.75466)">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#868686;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1;stroke-width:1.00037641;stroke-miterlimit:4;stroke-dasharray:none"
          x="-118.34705"
          y="259.31964"
          id="text108450-1-3-8-0-4"><tspan
@@ -4514,14 +4423,7 @@ IDwvZz4KICAgIDwvZz4KICA8L2c+Cjwvc3ZnPgo=
            id="tspan108448-2-8-7-1-7"
            x="-118.34705"
            y="259.31964"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#868686;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1">OSM</tspan></text>
-      <rect
-         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 3.6;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect118586-8-7-1-1-1"
-         width="29.8008"
-         height="15.484048"
-         x="-120.46064"
-         y="247.88408" />
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1;stroke-width:1.00037641;stroke-miterlimit:4;stroke-dasharray:none">OSM</tspan></text>
     </g>
     <g
        id="g118935-6-3-5-5-0-5"
@@ -4538,13 +4440,6 @@ IDwvZz4KICAgIDwvZz4KICA8L2c+Cjwvc3ZnPgo=
            x="-118.34705"
            y="258.4404"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1">OSM</tspan></text>
-      <rect
-         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 3.6;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect118586-8-7-1-1-1-2"
-         width="29.8008"
-         height="15.484048"
-         x="-120.46064"
-         y="247.88408" />
     </g>
     <g
        id="g124180-9"
@@ -4564,13 +4459,6 @@ IDwvZz4KICAgIDwvZz4KICA8L2c+Cjwvc3ZnPgo=
              id="tspan124146-8"
              x="-118.34705"
              y="258.58334">Right</tspan></text>
-        <rect
-           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 3.6;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-           id="rect118586-8-3-07-0-9"
-           width="29.8008"
-           height="15.484048"
-           x="-120.46064"
-           y="247.88408" />
       </g>
     </g>
     <g
@@ -4591,13 +4479,6 @@ IDwvZz4KICAgIDwvZz4KICA8L2c+Cjwvc3ZnPgo=
              id="tspan124146-8-5"
              x="-118.34705"
              y="258.58334">Right</tspan></text>
-        <rect
-           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 3.6;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-           id="rect118586-8-3-07-0-9-8"
-           width="29.8008"
-           height="15.484048"
-           x="-120.46064"
-           y="247.88408" />
       </g>
     </g>
     <text
@@ -4744,13 +4625,6 @@ Ii8+Cjwvc3ZnPgo=
              id="tspan123969-83"
              x="-118.34705"
              y="258.58334">Left</tspan></text>
-        <rect
-           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 3.6;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-           id="rect118586-8-3-07-72"
-           width="29.8008"
-           height="15.484048"
-           x="-120.46064"
-           y="247.88408" />
       </g>
     </g>
     <g
@@ -4771,13 +4645,6 @@ Ii8+Cjwvc3ZnPgo=
              id="tspan123969-9-2"
              x="-118.34705"
              y="258.58334">Left</tspan></text>
-        <rect
-           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 3.6;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-           id="rect118586-8-3-07-7-0"
-           width="29.8008"
-           height="15.484048"
-           x="-120.46064"
-           y="247.88408" />
       </g>
     </g>
     <g
@@ -4798,13 +4665,6 @@ Ii8+Cjwvc3ZnPgo=
              id="tspan123969-4-5"
              x="-118.34705"
              y="258.58334">Left</tspan></text>
-        <rect
-           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 3.6;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-           id="rect118586-8-3-07-45-7"
-           width="29.8008"
-           height="15.484048"
-           x="-120.46064"
-           y="247.88408" />
       </g>
     </g>
     <g
@@ -4825,13 +4685,6 @@ Ii8+Cjwvc3ZnPgo=
              id="tspan123969-4-5-3"
              x="-118.34705"
              y="258.58334">Left</tspan></text>
-        <rect
-           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 3.6;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-           id="rect118586-8-3-07-45-7-9"
-           width="29.8008"
-           height="15.484048"
-           x="-120.46064"
-           y="247.88408" />
       </g>
     </g>
     <g
@@ -4852,13 +4705,6 @@ Ii8+Cjwvc3ZnPgo=
              id="tspan124146-9"
              x="-118.34705"
              y="258.58334">Right</tspan></text>
-        <rect
-           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 3.6;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-           id="rect118586-8-3-07-0-7"
-           width="29.8008"
-           height="15.484048"
-           x="-120.46064"
-           y="247.88408" />
       </g>
     </g>
     <g
@@ -4876,13 +4722,6 @@ Ii8+Cjwvc3ZnPgo=
            x="-118.34705"
            y="258.58334"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1">OSM</tspan></text>
-      <rect
-         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 3.6;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect118586-8-7-6"
-         width="29.8008"
-         height="15.484048"
-         x="-120.46064"
-         y="247.88408" />
     </g>
     <g
        id="g118935-6-3-5-2"
@@ -4899,13 +4738,6 @@ Ii8+Cjwvc3ZnPgo=
            x="-118.34705"
            y="258.58334"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1">OSM</tspan></text>
-      <rect
-         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 3.6;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect118586-8-7-1-2"
-         width="29.8008"
-         height="15.484048"
-         x="-120.46064"
-         y="247.88408" />
     </g>
     <g
        id="g118935-6-3-5-5-2"
@@ -4922,13 +4754,6 @@ Ii8+Cjwvc3ZnPgo=
            x="-118.34705"
            y="258.58334"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1">OSM</tspan></text>
-      <rect
-         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 3.6;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect118586-8-7-1-1-8"
-         width="29.8008"
-         height="15.484048"
-         x="-120.46064"
-         y="247.88408" />
     </g>
     <g
        id="g118935-6-3-5-5-0-6"
@@ -4945,13 +4770,6 @@ Ii8+Cjwvc3ZnPgo=
            x="-118.34705"
            y="258.58334"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1">OSM</tspan></text>
-      <rect
-         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 3.6;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect118586-8-7-1-1-1-7"
-         width="29.8008"
-         height="15.484048"
-         x="-120.46064"
-         y="247.88408" />
     </g>
     <g
        id="g118935-6-3-5-5-0-5-9"
@@ -4968,13 +4786,6 @@ Ii8+Cjwvc3ZnPgo=
            x="-118.34705"
            y="258.58334"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1">OSM</tspan></text>
-      <rect
-         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 3.6;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect118586-8-7-1-1-1-2-3"
-         width="29.8008"
-         height="15.484048"
-         x="-120.46064"
-         y="247.88408" />
     </g>
     <g
        id="g137618"
@@ -4990,13 +4801,6 @@ Ii8+Cjwvc3ZnPgo=
            id="tspan137613"
            x="-149.97296"
            y="399.84659">Alt/⌥</tspan></text>
-      <rect
-         style="mix-blend-mode:normal;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:0.936238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.936238, 2.80871;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect118586-8-3-6-70"
-         width="26.116625"
-         height="10.754867"
-         x="-154.94572"
-         y="383.37405" />
     </g>
     <text
        text-anchor="middle"
@@ -5051,7 +4855,7 @@ PcPmwgQAxQHSJwMARgA/AvgDwOrWL4j0y/dOMNvM/wH/7AVnHkIMQAAAAABJRU5ErkJggg==
     <g
        id="g124583-22-1"
        style="display:inline;mix-blend-mode:normal"
-       transform="translate(745.94064,372.73615)">
+       transform="translate(733.09201,372.166)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63448px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;mix-blend-mode:normal;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.715731;stroke-opacity:1"
@@ -5060,44 +4864,30 @@ PcPmwgQAxQHSJwMARgA/AvgDwOrWL4j0y/dOMNvM/wH/7AVnHkIMQAAAAABJRU5ErkJggg==
          id="text108450-1-9-8-6-7"
          transform="scale(1.0230958,0.97742559)"><tspan
            sodipodi:role="line"
-           id="tspan124578-48-2"
+           id="tspan190986"
            x="-124.66893"
-           y="357.01465">Ctrl/⌘</tspan></text>
-      <rect
-         style="mix-blend-mode:normal;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:0.936238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.936238, 2.80871;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect118586-8-3-6-2-7"
-         width="26.116625"
-         height="10.754867"
-         x="-129.05727"
-         y="341.509" />
+           y="357.01465">Ctrl/⌘ + +</tspan></text>
     </g>
     <g
        id="g124583-22-1-3"
        style="display:inline;mix-blend-mode:normal"
-       transform="translate(745.94064,421.73615)">
+       transform="translate(739.97567,422.02661)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63448px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;mix-blend-mode:normal;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.715731;stroke-opacity:1"
-         x="-124.66893"
-         y="357.01465"
+         x="-129.33873"
+         y="358.59604"
          id="text108450-1-9-8-6-7-2"
-         transform="scale(1.0230958,0.97742559)"><tspan
+         transform="matrix(1.0230958,0.01933553,0,0.97742558,0,0)"><tspan
            sodipodi:role="line"
-           id="tspan124578-48-2-0"
-           x="-124.66893"
-           y="357.01465">Ctrl/⌘</tspan></text>
-      <rect
-         style="mix-blend-mode:normal;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:0.936238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.936238, 2.80871;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect118586-8-3-6-2-7-1"
-         width="26.116625"
-         height="10.754867"
-         x="-129.05727"
-         y="341.509" />
+           id="tspan191006"
+           x="-129.33873"
+           y="358.59604">Ctrl/⌘ + -</tspan></text>
     </g>
     <g
        id="g124583-22-1-3-6"
        style="display:inline;mix-blend-mode:normal"
-       transform="translate(745.94064,470.73615)">
+       transform="translate(733.95936,470.73615)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63448px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;mix-blend-mode:normal;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.715731;stroke-opacity:1"
@@ -5106,16 +4896,9 @@ PcPmwgQAxQHSJwMARgA/AvgDwOrWL4j0y/dOMNvM/wH/7AVnHkIMQAAAAABJRU5ErkJggg==
          id="text108450-1-9-8-6-7-2-1"
          transform="scale(1.0230958,0.97742559)"><tspan
            sodipodi:role="line"
-           id="tspan124578-48-2-0-4"
+           id="tspan191026"
            x="-124.66893"
-           y="357.01465">Ctrl/⌘</tspan></text>
-      <rect
-         style="mix-blend-mode:normal;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:0.936238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.936238, 2.80871;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect118586-8-3-6-2-7-1-2"
-         width="26.116625"
-         height="10.754867"
-         x="-129.05727"
-         y="341.509" />
+           y="357.01465">Ctrl/⌘ + 0</tspan></text>
     </g>
     <image
        width="24.145397"
@@ -5416,19 +5199,6 @@ n6vRrSjV+QBB7hCwYPoxfwAAAABJRU5ErkJggg==
          id="tspan183360-45"
          x="176.32785"
          y="848.8269">sym2</tspan></text>
-    <text
-       text-anchor="middle"
-       dominant-baseline="middle"
-       x="244.39496"
-       y="1665.8666"
-       id="text134-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.5663px;font-family:SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace;-inkscape-font-specification:'SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:middle;text-anchor:middle;display:inline;mix-blend-mode:normal;stroke-width:1.55874"
-       transform="scale(1.558736,0.64154545)"><tspan
-         sodipodi:role="line"
-         id="tspan180555-9"
-         x="244.39496"
-         y="1665.8666"
-         style="stroke-width:1.55874">⎵</tspan></text>
     <g
        id="g137618-4"
        transform="translate(536.34382,702.19923)"
@@ -5444,13 +5214,18 @@ n6vRrSjV+QBB7hCwYPoxfwAAAABJRU5ErkJggg==
            id="tspan137613-8"
            x="-149.97296"
            y="400.37357">Alt/⌥</tspan></text>
-      <rect
-         style="mix-blend-mode:normal;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#555555;stroke-width:0.936238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.936238, 2.80871;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect118586-8-3-6-70-4"
-         width="26.116625"
-         height="10.754867"
-         x="-154.94572"
-         y="383.37405" />
     </g>
+    <text
+       text-anchor="middle"
+       dominant-baseline="middle"
+       x="378.84277"
+       y="1072.8282"
+       id="text134-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.6506px;font-family:SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace;-inkscape-font-specification:'SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:middle;text-anchor:middle;display:inline;mix-blend-mode:normal;stroke-width:0.849398"><tspan
+         sodipodi:role="line"
+         id="tspan180555-2"
+         x="378.84277"
+         y="1072.8282"
+         style="stroke-width:0.849398">⎵</tspan></text>
   </g>
 </svg>
