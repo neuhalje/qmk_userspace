@@ -3,8 +3,12 @@ _I used [filterpaper/qmk_userspace](https://github.com/filterpaper/qmk_userspace
 # Summary
 This is my personal *userspace* for [QMK Firmware](https://github.com/qmk/qmk_firmware). It is setup as a self-contained folder that avoids placing `keymap.c` files inside keyboard sub-directories.
 
+This keyboard layout supports a *German* *ColemakDH* layout with Linux (windows) & MacOS Support.
 
-* [Corne (CRKBD)](https://github.com/qmk/qmk_firmware/tree/master/keyboards/crkbd/rev1)
+![Layout](doc/corne_colemak.svg)
+
+## Using on a Mac
+Switch to the *Mac* base layout using the action in the *Function* layer.
 
 # Building Userspace
 This repository can be built as QMK's [userspace](https://docs.qmk.fm/#/feature_userspace) in a `users` folder by running `qmk compile` for the JSON files. [Actions](https://docs.github.com/en/actions) can also be leveraged to do likewise on a GitHub container with [build.yml](.github/workflows/build.yml) workflow.
@@ -44,4 +48,5 @@ Images in `glcdfont.c` can be viewed and edited with:
 
 
 # Useful Links
+* [Corne (CRKBD)](https://github.com/qmk/qmk_firmware/tree/master/keyboards/crkbd/rev1)
 * [Seniply](https://stevep99.github.io/seniply/) 34 key layout
