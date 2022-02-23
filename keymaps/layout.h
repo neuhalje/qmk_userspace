@@ -158,7 +158,7 @@
  * └─────┴────┴─────┴───────────────────────┴─────┴────┴─────┘
  */
 // Row 1
-#define OSX_DE_CIRC KC_GRV  // ^ (dead)
+#define OSX_DE_CIRC KC_NUBS  // ^ (dead) --
 #define OSX_DE_1    KC_1    // 1
 #define OSX_DE_2    KC_2    // 2
 #define OSX_DE_3    KC_3    // 3
@@ -198,7 +198,7 @@
 #define OSX_DE_ADIA KC_QUOT // Ä
 #define OSX_DE_HASH KC_NUHS // #
 // Row 4
-#define OSX_DE_LABK KC_NUBS // <
+#define OSX_DE_LABK KC_GRV  // <
 #define OSX_DE_Y    KC_Z    // Y
 #define OSX_DE_X    KC_X    // X
 #define OSX_DE_C    KC_C    // C
