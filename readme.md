@@ -5,7 +5,7 @@ This is my personal *userspace* for [QMK Firmware](https://github.com/qmk/qmk_fi
 
 This keyboard layout supports a *German* *ColemakDH* layout with Linux (windows) & MacOS Support.
 
-![Layout](doc/corne_colemak.svg)
+![Layout](doc/corne_colemak.png)
 
 ## Using on a Mac
 Switch to the *Mac* base layout using the action in the *Function* layer.
