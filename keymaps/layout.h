@@ -266,11 +266,11 @@
 #define OSX_DE_LDQU A(OSX_DE_2)    // “
 #define OSX_DE_PILC A(OSX_DE_3)    // ¶
 #define OSX_DE_CENT A(OSX_DE_4)    // ¢
-#define OSX_DE_LBRC A(OSX_DE_5)    // [
-#define OSX_DE_RBRC A(OSX_DE_6)    // ]
-#define OSX_DE_PIPE A(OSX_DE_7)    // |
-#define OSX_DE_LCBR A(OSX_DE_8)    // {
-#define OSX_DE_RCBR A(OSX_DE_9)    // }
+#define OSX_DE_LBRC ALGR(OSX_DE_5)    // [
+#define OSX_DE_RBRC ALGR(OSX_DE_6)    // ]
+#define OSX_DE_PIPE ALGR(OSX_DE_7)    // |
+#define OSX_DE_LCBR ALGR(OSX_DE_8)    // {
+#define OSX_DE_RCBR ALGR(OSX_DE_9)    // }
 #define OSX_DE_NEQL A(OSX_DE_0)    // ≠
 #define OSX_DE_IQUE A(OSX_DE_SS)   // ¿
 // Row 2
@@ -295,7 +295,7 @@
 #define OSX_DE_FORD A(OSX_DE_H)    // ª
 #define OSX_DE_MORD A(OSX_DE_J)    // º
 #define OSX_DE_INCR A(OSX_DE_K)    // ∆
-#define OSX_DE_AT   A(OSX_DE_L)    // @
+#define OSX_DE_AT   ALGR(OSX_DE_L)    // @
 #define OSX_DE_OE   A(OSX_DE_ODIA) // Œ
 #define OSX_DE_AE   A(OSX_DE_ADIA) // Æ
 #define OSX_DE_LSQU A(OSX_DE_HASH) // ‘
@@ -306,7 +306,7 @@
 #define OSX_DE_CCCE A(OSX_DE_C)    // Ç
 #define OSX_DE_SQRT A(OSX_DE_V)    // √
 #define OSX_DE_INTG A(OSX_DE_B)    // ∫
-#define OSX_DE_TILD A(OSX_DE_N)    // ~ (dead)
+#define OSX_DE_TILD ALGR(OSX_DE_N)    // ~ (dead)
 #define OSX_DE_MICR A(OSX_DE_M)    // µ
 #define OSX_DE_INFN A(OSX_DE_COMM) // ∞
 #define OSX_DE_ELLP A(OSX_DE_DOT)  // …
@@ -330,7 +330,7 @@
 #define OSX_DE_RDQU S(A(OSX_DE_2))    // ”
 #define OSX_DE_PND  S(A(OSX_DE_4))    // £
 #define OSX_DE_FI   S(A(OSX_DE_5))    // ﬁ
-#define OSX_DE_BSLS S(A(OSX_DE_7))    // (backslash)
+#define OSX_DE_BSLS S(ALGR(OSX_DE_7))    // (backslash)
 #define OSX_DE_STIL S(A(OSX_DE_8))    // ˜
 #define OSX_DE_MDDT S(A(OSX_DE_9))    // ·
 #define OSX_DE_MACR S(A(OSX_DE_0))    // ¯
