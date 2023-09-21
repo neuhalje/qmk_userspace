@@ -1,4 +1,4 @@
-// Copyright 2021 @filterpaper
+// Copyright 2023 neuhalje
 // SPDX-License-Identifier: GPL-2.0+
 #pragma once
 
@@ -198,7 +198,7 @@
 #define OSX_DE_ADIA KC_QUOT // Ä
 #define OSX_DE_HASH KC_NUHS // #
 // Row 4
-#define OSX_DE_LABK KC_GRV  // <
+#define OSX_DE_LABK DE_LABK // <
 #define OSX_DE_Y    KC_Z    // Y
 #define OSX_DE_X    KC_X    // X
 #define OSX_DE_C    KC_C    // C
@@ -234,7 +234,7 @@
 #define OSX_DE_SLSH S(OSX_DE_7)    // /
 #define OSX_DE_LPRN S(OSX_DE_8)    // (
 #define OSX_DE_RPRN S(OSX_DE_9)    // )
-#define OSX_DE_EQL  S(OSX_DE_0)    // =
+#define OSX_DE_EQL  KC_PEQL    // =
 #define OSX_DE_QUES S(OSX_DE_SS)   // ?
 #define OSX_DE_GRV  S(OSX_DE_ACUT) // ` (dead)
 // Row 2
@@ -242,7 +242,7 @@
 // Row 3
 #define OSX_DE_QUOT S(OSX_DE_HASH) // '
 // Row 4
-#define OSX_DE_RABK S(OSX_DE_LABK) // >
+#define OSX_DE_RABK DE_RABK // >
 #define OSX_DE_SCLN S(OSX_DE_COMM) // ;
 #define OSX_DE_COLN S(OSX_DE_DOT)  // :
 #define OSX_DE_UNDS S(OSX_DE_MINS) // _
