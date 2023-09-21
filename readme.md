@@ -13,26 +13,30 @@ Switch to the *Mac* base layout using the action in the *Function* layer.
 # Building Userspace
 This repository can be built as QMK's [userspace](https://docs.qmk.fm/#/feature_userspace) in a `users` folder by running `qmk compile` for the JSON files. [Actions](https://docs.github.com/en/actions) can also be leveraged to do likewise on a GitHub container with [build.yml](.github/workflows/build.yml) workflow.
 
-# Code Features
-* [OLED](oled/) indicators and animation (courtesy of [filterpaper/qmk_userspace](https://github.com/filterpaper/qmk_userspace))
-  * [Bongocat](oled/oled-bongocat.c) with compressed RLE frames (courtesy of [filterpaper/qmk_userspace](https://github.com/filterpaper/qmk_userspace))
-  * [Luna](oled/oled-luna.c) (and Felix) the dog
-  * Soundmonster [indicator](oled/oled-icons.c) icons (courtesy of [filterpaper/qmk_userspace](https://github.com/filterpaper/qmk_userspace))
-
-# Modular Corne (CRKBD) Build
 ```sh
-qmk flash keymaps/corne_colemak.json -e OLED=RIGHTCAT -e TINY=y -bl avrdude-split-left
-qmk flash keymaps/corne_colemak.json -e OLED=RIGHTCAT -e TINY=y -bl avrdude-split-right
+git clone https://github.com/qmk/qmk_firmware.git ~/.qmk_firmware
+
+git clone git@github.com:neuhalje/qmk_userspace.git ~/qmk_firmware/users/neuhalje
 ```
 
-## Compiling for OLED display
-The `-e OLED=` option will build support for pet animation on primary OLED with status icons on the secondary. Animation are key stroke driven by `tap_timer`. To use WPM (at the expense of size), add `-e WPM_ENABLE=yes` to the compile commands:
-### Bongocat
-Build and flash each side with the corresponding options for left and right aligned Bongocat:
+## Modular Corne (CRKBD) Build
+You need to build for left and right separately. The command will automatically flash. Add the cable to the `left` halve and run with `SIDE=left`, then with `SIDE=right` on the right side.
+
+```sh
+SIDE=right  # or left
+
+qmk flash \
+    -kb crkbd  \
+    -bl avrdude-split-${SIDE} \
+    -e OLED=VERSION \
+    ~/qmk_firmware/users/neuhalje/keymaps/corne_colemak.json
+
 ```
-qmk compile -e OLED=LEFTCAT corne.json
-qmk compile -e OLED=RIGHTCAT corne.json
-```
+
+# Code Features
+* [OLED](oled/) indicators and animation (courtesy of [filterpaper/qmk_userspace](https://github.com/filterpaper/qmk_userspace)) (but not used)
+
+
 
 ## Minimal build
 Minimal firmware with no OLED and RGB support will be compiled with `-e TINY=yes`:
@@ -41,7 +45,7 @@ qmk compile -e TINY=yes corne.json
 ```
 
 ## Logo file
-Images in `glcdfont.c` can be viewed and edited with:
+Images in `oledfont.c` can be viewed and edited with:
 * [Helix Font Editor](https://helixfonteditor.netlify.app/)
 * [QMK Logo Editor](https://joric.github.io/qle/)
 * [image2cpp](https://javl.github.io/image2cpp/)
