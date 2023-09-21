@@ -49,6 +49,8 @@ ifeq ($(KEYBOARD), crkbd/rev1)
 			SRC += oled-icons.c oled-bongocat.c
 		else ifeq ($(OLED), $(filter $(OLED), LUNA FELIX))
 			SRC += oled-icons.c oled-luna.c
+		else ifeq ($(OLED), $(filter $(OLED), VERSION))
+			SRC += oled-icons.c oled-version.c
 		endif
 	endif
 endif
